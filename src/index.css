@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* importamos la fuente */
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/Fonts/Inter-VariableFont_slnt\,wght.ttf');
+}
