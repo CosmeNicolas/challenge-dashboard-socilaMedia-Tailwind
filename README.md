@@ -19,3 +19,7 @@ El desafío consistió en crear una página web utilizando Tailwind CSS como la 
 1. Clona este repositorio: `git clone https://github.com/CosmeNicolas/challenge-dashboard-socilaMedia-Tailwind.git`
 2. Instala las dependencias: `npm install`
 3. Inicia el servidor de desarrollo: `npm run dev`
+
+### Link - Deploy 
+
+[ProyectoTerminado](https://challenge-dashboard-socila-media-tailwind.vercel.app/)
